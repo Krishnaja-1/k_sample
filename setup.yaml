@@ -1,6 +1,6 @@
 
 users:
-  - name: Krishnaja-1
+  - name: springboot_web
     password: $MYSQL_SPRINGBOOTWEB_PASSWORD
   - name: wordpress
     password: $MYSQL_WORDPRESS_PASSWORD
